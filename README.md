@@ -4,6 +4,7 @@
 <br><br>
 # Project Introduction
 ![image](https://github.com/user-attachments/assets/d980d3d1-cce2-4d47-b1c2-7ea094db8b25)
+<br>
 본 프로젝트 **‘위대한 도둑’**은 쿠키런 시리즈의 핵심 재미 요소와 감성을 참고하여, 이를 기반으로 한 독창적인 게임 플레이 경험을 구현하고자 제작되었습니다.
 
 <br><br>
