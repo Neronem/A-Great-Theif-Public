@@ -20,6 +20,12 @@
 - 주어진 생명 내에서 최대한 많이!
   
 <br><br>
+
+## 📐 와이어프레임
+![Cookie_Run_WireFrame](https://github.com/user-attachments/assets/38183e2e-58c6-4f46-a072-da8fce7162bc)
+
+
+<br><br>
 ## ⌚ Development Period
 **2025.5.8 ~ 2025.5.13**
 
