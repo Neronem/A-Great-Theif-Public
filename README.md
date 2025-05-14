@@ -13,11 +13,11 @@
 
 <br><br>
 # Team Members
-송규민 (팀장) - 깃허브 주소 | https://github.com/Neronem , 블로그 주소 | https://velog.io/@duckb3e/posts <br>
-송민권 (팀원) - 깃허브 주소 | https://github.com/smg583 , 블로그 주소 | https://smg0103.tistory.com/ <br>
-임지우 (팀원) - 깃허브 주소 | https://github.com/Zi-woo , 블로그 주소 | https://velog.io/@jiwoo64/posts <br>
-한예준 (팀원) - 깃허브 주소 | https://github.com/yj6662 , 블로그 주소 | https://velog.io/@yj6662/posts <br>
-양성대 (팀원) - 깃허브 주소 | https://github.com/codingnewwbie , 블로그 주소 | https://codingnewwbie.github.io/ <br>
+🕵️ 송규민 (팀장) - 깃허브 주소 | https://github.com/Neronem , 블로그 주소 | https://velog.io/@duckb3e/posts <br>
+🙋‍♂️ 송민권 (팀원) - 깃허브 주소 | https://github.com/smg583 , 블로그 주소 | https://smg0103.tistory.com/ <br>
+🙋‍♂️ 임지우 (팀원) - 깃허브 주소 | https://github.com/Zi-woo , 블로그 주소 | https://velog.io/@jiwoo64/posts <br>
+🙋‍♂️ 한예준 (팀원) - 깃허브 주소 | https://github.com/yj6662 , 블로그 주소 | https://velog.io/@yj6662/posts <br>
+🙋‍♂️ 양성대 (팀원) - 깃허브 주소 | https://github.com/codingnewwbie , 블로그 주소 | https://codingnewwbie.github.io/ <br>
 
 <br><br>
 # Main Functions
