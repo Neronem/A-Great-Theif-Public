@@ -21,23 +21,6 @@
   
 <br><br>
 
-## 📐 와이어프레임
-![Cookie_Run_WireFrame](https://github.com/user-attachments/assets/38183e2e-58c6-4f46-a072-da8fce7162bc)
-
-
-<br><br>
-## ⌚ Development Period
-**2025.5.8 ~ 2025.5.13**
-
-<br><br>
-## 👪 Team Members
-🕵️ 송규민 (팀장) - 깃허브 주소 | https://github.com/Neronem , 블로그 주소 | https://velog.io/@duckb3e/posts <br>
-🙋‍♂️ 송민권 (팀원) - 깃허브 주소 | https://github.com/smg583 , 블로그 주소 | https://smg0103.tistory.com/ <br>
-🙋‍♂️ 임지우 (팀원) - 깃허브 주소 | https://github.com/Zi-woo , 블로그 주소 | https://velog.io/@jiwoo64/posts <br>
-🙋‍♂️ 한예준 (팀원) - 깃허브 주소 | https://github.com/yj6662 , 블로그 주소 | https://velog.io/@yj6662/posts <br>
-🙋‍♂️ 양성대 (팀원) - 깃허브 주소 | https://github.com/codingnewwbie , 블로그 주소 | https://codingnewwbie.github.io/ <br>
-
-<br><br>
 ## 🛠️ Main Functions
 
 플레이어 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/Player/README.md">플레이어 설명으로 이동</a>
@@ -72,6 +55,24 @@ UI - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/
 OnTriggerEnter2D - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Trouble%20Shooting/%ED%8A%B8%EB%9F%AC%EB%B8%94%20%EC%8A%88%ED%8C%85%20-%20OnTriggerEnter2D%EC%9D%98%20%EC%A4%91%EB%B3%B5%20%ED%98%B8%EC%B6%9C%20%EB%AC%B8%EC%A0%9C.md">트러블 슈팅 - OnTriggerEnter2D의 중복 호출 문제</a>
 
 
+
+<br><br>
+
+## 📐 와이어프레임
+![Cookie_Run_WireFrame](https://github.com/user-attachments/assets/38183e2e-58c6-4f46-a072-da8fce7162bc)
+
+
+<br><br>
+## ⌚ Development Period
+**2025.5.8 ~ 2025.5.13**
+
+<br><br>
+## 👪 Team Members
+🕵️ 송규민 (팀장) - 깃허브 주소 | https://github.com/Neronem , 블로그 주소 | https://velog.io/@duckb3e/posts <br>
+🙋‍♂️ 송민권 (팀원) - 깃허브 주소 | https://github.com/smg583 , 블로그 주소 | https://smg0103.tistory.com/ <br>
+🙋‍♂️ 임지우 (팀원) - 깃허브 주소 | https://github.com/Zi-woo , 블로그 주소 | https://velog.io/@jiwoo64/posts <br>
+🙋‍♂️ 한예준 (팀원) - 깃허브 주소 | https://github.com/yj6662 , 블로그 주소 | https://velog.io/@yj6662/posts <br>
+🙋‍♂️ 양성대 (팀원) - 깃허브 주소 | https://github.com/codingnewwbie , 블로그 주소 | https://codingnewwbie.github.io/ <br>
 
 <br><br>
 ## 🎇 팀 노션
