@@ -61,5 +61,15 @@ UI - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/
 <br><br>
 ## 🤔 Trouble Shooting
 
+플레이어 끼임 현상 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Trouble%20Shooting/%ED%8A%B8%EB%9F%AC%EB%B8%94%20%EC%8A%88%ED%8C%85%20-%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EB%81%BC%EC%9E%84%20%ED%98%84%EC%83%81.md">트러블 슈팅 - 플레이어 끼임 현상</a>
+
+장애물 파괴 이펙트 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Trouble%20Shooting/%ED%8A%B8%EB%9F%AC%EB%B8%94%20%EC%8A%88%ED%8C%85%20-%20%ED%8C%8C%ED%8B%B0%ED%81%B4%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md">트러블 슈팅 - 장애물 파괴 이펙트</a>
+
+커스터마이징 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Trouble%20Shooting/%ED%8A%B8%EB%9F%AC%EB%B8%94%20%EC%8A%88%ED%8C%85%20-%20%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95.md">트러블 슈팅 - 커스터마이징 시스템</a>
+
+장애물 생성 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Trouble%20Shooting/%ED%8A%B8%EB%9F%AC%EB%B8%94%20%EC%8A%88%ED%8C%85%20-%20%EC%9E%A5%EC%95%A0%EB%AC%BC%20%EC%83%9D%EC%84%B1.md">트러블 슈팅 - 장애물 생성</a>
+
+OnTriggerEnter2D - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Trouble%20Shooting/%ED%8A%B8%EB%9F%AC%EB%B8%94%20%EC%8A%88%ED%8C%85%20-%20OnTriggerEnter2D%EC%9D%98%20%EC%A4%91%EB%B3%B5%20%ED%98%B8%EC%B6%9C%20%EB%AC%B8%EC%A0%9C.md">트러블 슈팅 - OnTriggerEnter2D의 중복 호출 문제</a>
+
 
 
