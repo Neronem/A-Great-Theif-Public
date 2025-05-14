@@ -39,10 +39,27 @@
 
 <br><br>
 ## 🛠️ Main Functions
-// 스크립트 ReadMe목록 
 
+플레이어 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/Player/README.md">플레이어 설명으로 이동</a>
+
+펫 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/Pet/README.md">펫 설명으로 이동</a>
+
+장애물 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/Obstacle/README.md">장애물 설명으로 이동</a>
+
+아이템 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/Items/README.md">아이템 설명으로 이동</a>
+
+사운드 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/Sound/README.md">사운드 설명으로 이동</a>
+
+스킨 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/Skin/README.md">스킨 설명으로 이동</a>
+
+카메라 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/Camera/README.md">카메라 설명으로 이동</a>
+
+도전과제 - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/Achievement/README.md">도전과제 설명으로 이동</a>
+
+UI - <a href="https://github.com/Neronem/A-Great-Theif-Public/blob/main/Scripts/README.md">UI 설명으로 이동</a>
 
 <br><br>
 ## 🤔 Trouble Shooting
-// 트러블슈팅 
+
+
 
